@@ -3,24 +3,24 @@
 ### About Me
 I'm a software developer with a passion for learning and building web applications. My primary focus is on the React JS framework and I have experience working with languages such as JavaScript, JSX, TypeScript, TSX, and some Python. I'm also quite familiar with MERN applications and RESTful API applications.
 
-Skills
-React JS
-JavaScript, JSX
-TypeScript, TSX
-Node JS
-MongoDB Compass
-Cloudinary
-Postman/Insomnia
-AWS 
-cors
-Redux
-JWT
-Firebase 
-Stripe Payment API
-MERN Stack
-RESTful APIs
-NextJS 
-Axios
+### Skills
+- React JS
+- JavaScript, JSX
+- TypeScript, TSX
+- Node JS
+- MongoDB Compass
+- Cloudinary
+- Postman/Insomnia
+- AWS 
+- cors
+- Redux
+- JWT
+- Firebase 
+- Stripe Payment API
+- MERN Stack
+- RESTful APIs
+- NextJS Applications 
+- Axios
 
 ### Experience
 I've worked on various projects using React JS and have experience in building responsive, performant, and user-friendly web applications. I'm also familiar with various tools and technologies used in web development such as Node JS, MongoDB Compass, Cloudinary, Postman/Insomnia, Formik, AWS (email auth & password reset), Yup, cors, Redux, React-Router-Dom-v6, JWT, Firebase Authentication, Firebase Cloudstore, and Stripe Payment API.
