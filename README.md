@@ -12,7 +12,7 @@ I'm a software developer with a passion for learning and building web applicatio
 - Cloudinary
 - Postman/Insomnia
 - AWS 
-- cors
+- Cors
 - Redux
 - JWT
 - Firebase 
