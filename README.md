@@ -1,7 +1,7 @@
 ## Hello, world! 👋
 
 ### About Me
-I'm a software developer with a passion for learning and building web applications. My primary focus is on the React JS framework and I have experience working with languages such as JavaScript, JSX, TypeScript, TSX, and some Python. I'm also quite familiar with MERN applications and RESTful API applications.
+I'm a software developer with a passion for learning and building web applications. My primary focus is on the React JS framework and I have most of my experience working with languages such as JavaScript, JSX, TypeScript, TSX, and Python. I'm also quite familiar with MERN applications and RESTful API applications.
 
 ### Skills
 - React JS
