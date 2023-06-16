@@ -8,6 +8,7 @@ I'm a software developer with a passion for learning and building web applicatio
 - Angular
 - JavaScript, JSX
 - TypeScript, TSX
+- C#
 - Node JS
 - MongoDB Compass
 - Cloudinary
@@ -17,11 +18,14 @@ I'm a software developer with a passion for learning and building web applicatio
 - Redux
 - JWT
 - Firebase 
+- MySQL
+- APS.net Core
 - Stripe Payment API
 - MERN Stack
 - RESTful APIs
 - NextJS Applications 
 - Axios
+- PostgreSQL
 
 ### Experience
 I've worked on various projects using React JS and have experience in building responsive, performant, and user-friendly web applications. I'm also familiar with various tools and technologies used in web development such as Node JS, MongoDB Compass, Cloudinary, Postman/Insomnia, Formik, AWS (email auth & password reset), Yup, cors, Redux, React-Router-Dom-v6, JWT, Firebase Authentication, Firebase Cloudstore, and Stripe Payment API.
