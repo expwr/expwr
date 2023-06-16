@@ -9,6 +9,7 @@ I'm a software developer with a passion for learning and building web applicatio
 - JavaScript, JSX
 - TypeScript, TSX
 - C#
+- CI/CD
 - Node JS
 - MongoDB Compass
 - Cloudinary
