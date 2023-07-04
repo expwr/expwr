@@ -29,7 +29,7 @@ I'm a software developer with a passion for learning and building web applicatio
 - PostgreSQL
 
 ### Experience
-I've worked on various projects using React JS and have experience in building responsive, performant, and user-friendly web applications. I'm also familiar with various tools and technologies used in web development such as Node JS, MongoDB Compass, Cloudinary, Postman/Insomnia, Formik, AWS (email auth & password reset), Yup, cors, Redux, React-Router-Dom-v6, JWT, Firebase Authentication, Firebase Cloudstore, and Stripe Payment API.
+I've worked on various projects using React JS and have experience in building responsive, performant, and user-friendly web applications. I'm also familiar with various tools and technologies used in web development such as Node JS, MongoDB Compass, Cloudinary, Postman/Insomnia, Formik, AWS (cognito and some other services), Yup, cors, Redux, React-Router-Dom-v6, JWT, Firebase Authentication, Firebase Cloudstore, and Stripe Payment API.
 
 I'm constantly looking for ways to improve my skills and stay up-to-date with the latest web technologies.
 
