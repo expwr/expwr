@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Noah Diana</h1>
-<h3 align="center">I'm a passionate full stack developer currently working <a href="https://team.drund.com" target="_blank" rel="noopener noreferrer">Drund</a> and serving as the CEO / Co-Founder at <a href="https://linkedin.com/company/silo-software-llc" target="_blank" rel="noopener noreferrer">Silo Software LLC</a></h3>
+<h3 align="center">I'm a passionate full stack developer currently working at <a href="https://wonderkiln.com" target="_blank" rel="noopener noreferrer">Wonderkiln</a> and serving as the CEO / Co-Founder at <a href="https://linkedin.com/company/silo-software-llc" target="_blank" rel="noopener noreferrer">Silo Software LLC</a></h3>
 
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expwr&" alt="expwr" /></p>
